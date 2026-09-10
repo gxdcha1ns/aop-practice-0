@@ -46,3 +46,11 @@ ssh -T git@github.com
 ![Результат перевірки SSH-з'єднання](screenshots/ssh.png)
 
 ---
+
+## 4. Hello, World! в IntelliJ IDEA
+
+В IntelliJ IDEA було створено та успішно виконано програму **Hello, World!**
+
+**Результат виконання:**
+
+![Hello, World! в IntelliJ IDEA](screenshots/hello-world.png)
