@@ -1,0 +1,1 @@
+![Результат перевірки середовища](screenshots/environment.png)
