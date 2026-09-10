@@ -14,3 +14,21 @@
 * **GitHub:** [@gxdcha1ns](https://github.com/gxdcha1ns)
 * **LeetCode:** [@gxdcha1ns](https://leetcode.com/u/gxdcha1ns/)
 * **HackerRank:** [@kocherha_vladys1](https://www.hackerrank.com/profile/kocherha_vladys1)
+
+---
+
+## 2. Перевірка середовища
+
+Для перевірки встановлених інструментів було виконано такі команди:
+
+java -version
+javac -version
+git --version
+git config --global --list
+
+
+**Результат:**
+
+![Результат перевірки середовища](screenshots/environment.png)
+
+---
